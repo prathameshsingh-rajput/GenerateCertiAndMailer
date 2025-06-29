@@ -47,9 +47,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 
 ## 📫 Contact
 For any questions or feedback, feel free to reach out:
-- **Your Name**: [Rajput Prathameshsingh](psr21044@gmail.com)
-- **GitHub**: [rajput-prathameshsingh](https://github.com/rajput-prathameshsingh)
-
+- **[Rajput Prathameshsingh](https://prathameshsingh.me)**
 ---
 
 Thank you for checking out **GenerateCertiAndMailer**! 🌟
