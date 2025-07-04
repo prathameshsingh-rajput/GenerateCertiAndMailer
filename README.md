@@ -1,6 +1,6 @@
 
 
-# GenerateCertiAndMailer #
+# CertoFly #
 
 # 📜Overview
 GenerateCertiAndMailer is a Java application designed to automate the process of generating personalized course certificates and emailing them to recipients. This project reads user data from an Excel file, generates certificates, and sends them via email with attachments.
